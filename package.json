@@ -1,0 +1,22 @@
+{
+  "name": "chatbot",
+  "version": "0.0.1",
+  "description": "A server for receive http requests from a Bot(Dialog Flow) using as interface Teams from Microsoft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavOyama/ChatBot.git"
+  },
+  "author": "Gustavo Oyama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavOyama/ChatBot/issues"
+  },
+  "homepage": "https://github.com/GustavOyama/ChatBot#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
